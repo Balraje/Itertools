@@ -1,0 +1,54 @@
+[{
+  "student_rolllno": 1,
+  "student_name": "Student1",
+  "student_address": "Pune",
+  "student_marks": 54.0
+},
+{
+  "student_rolllno": 2,
+  "student_name": "Student2",
+  "student_address": "Mumbai",
+  "student_marks": 92.5
+},
+{
+  "student_rolllno": 3,
+  "student_name": "Student3",
+  "student_address": "Banglore",
+  "student_marks": 89.67
+},
+{
+  "student_rolllno": 4,
+  "student_name": "Student4",
+  "student_address": "Banglore",
+  "student_marks": 0.17
+},
+{
+  "student_rolllno": 5,
+  "student_name": "Student5",
+  "student_address": "Banglore",
+  "student_marks": 63.83
+},
+{
+  "student_rolllno": 6,
+  "student_name": "Student6",
+  "student_address": "Mumbai",
+  "student_marks": 76.0
+},
+{
+  "student_rolllno": 7,
+  "student_name": "Student7",
+  "student_address": "Banglore",
+  "student_marks": 32.17
+},
+{
+  "student_rolllno": 8,
+  "student_name": "Student8",
+  "student_address": "Gurgaon",
+  "student_marks": 87.67
+},
+{
+  "student_rolllno": 9,
+  "student_name": "Student9",
+  "student_address": "Gurgaon",
+  "student_marks": 50.33
+}]
